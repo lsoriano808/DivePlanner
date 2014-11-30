@@ -1,0 +1,38 @@
+/****
+ * 
+ * General
+ * 
+*/
+body {
+	background-image: url("underwater.jpg");
+	padding-top: 0px;
+	margin-top:0px;
+}
+s
+header{
+	 color: #ec3316;	
+	
+}
+#warning{
+	
+	text-align: center;
+}
+
+#scuba{
+	max-width:940px;
+	margin: 0 auto; 
+	padding: 0 0%;
+	
+}
+
+#bottom{
+	
+	margin:0px auto;
+}
+
+
+
+footer{
+	
+	color:#ec3316;
+}
